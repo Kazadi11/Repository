@@ -11,5 +11,7 @@
     <?php
     echo"Cette foi, mon PHP est <strong>interprété</strong>";
     ?>
+    <p>nouvelle</p>
+    
 </body>
 </html>
